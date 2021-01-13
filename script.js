@@ -1,4 +1,4 @@
-let music = document.getElementById('audio');
+let music = document.getElementById('song');
 
 function retroceder() {
     music.currentTime -= 15;
